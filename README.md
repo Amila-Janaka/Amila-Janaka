@@ -1,3 +1,6 @@
+<!-- Add Font Awesome CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlKlSTOj1i+a5L6MWNOViFXtE4D2Fbql2E2wc5JqF0b4Q" crossorigin="anonymous">
+
 # Hi there, I'm Amila Janaka 👋
 <!--
 **Amila-Janaka/Amila-Janaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +21,7 @@ I'm a passionate and enthusiastic undergraduate student pursuing a Bachelor's de
 <!-- I have a keen interest in [specific areas of IT that interest you]. -->
 ## 🔧 Skills & Technologies
 ### Programming Languages
-- **Java**
+- **Java**<i class="fab fa-java"></i>
 - **Python**
 - **JavaScript**
 
