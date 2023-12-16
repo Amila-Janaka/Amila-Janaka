@@ -1,5 +1,3 @@
-<!-- Add Font Awesome CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlKlSTOj1i+a5L6MWNOViFXtE4D2Fbql2E2wc5JqF0b4Q" crossorigin="anonymous">
 
 # Hi there, I'm Amila Janaka 👋
 <!--
@@ -21,7 +19,7 @@ I'm a passionate and enthusiastic undergraduate student pursuing a Bachelor's de
 <!-- I have a keen interest in [specific areas of IT that interest you]. -->
 ## 🔧 Skills & Technologies
 ### Programming Languages
-- **Java**<i class="fab fa-java"></i>
+- **Java**
 - **Python**
 - **JavaScript**
 
